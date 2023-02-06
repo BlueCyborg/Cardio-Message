@@ -1,0 +1,1 @@
+<p style="font-size: 20px;"><strong>Cardio-Message :</strong> plugin d'envoie et de gestion de message dans mon club :</p>
